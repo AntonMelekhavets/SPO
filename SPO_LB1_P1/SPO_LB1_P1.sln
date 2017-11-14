@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SPO_LB1_P1", "SPO_LB1_P1\SPO_LB1_P1.vcxproj", "{3F92DB2B-2FF7-4B55-A862-9AC1D2E630BC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Client", "..\..\..\Kyrsach\Test\Test\Test.vcxproj", "{004E55DF-E560-4A48-96A5-D3AF10D7648E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F92DB2B-2FF7-4B55-A862-9AC1D2E630BC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3F92DB2B-2FF7-4B55-A862-9AC1D2E630BC}.Debug|Win32.Build.0 = Debug|Win32
+		{3F92DB2B-2FF7-4B55-A862-9AC1D2E630BC}.Release|Win32.ActiveCfg = Release|Win32
+		{3F92DB2B-2FF7-4B55-A862-9AC1D2E630BC}.Release|Win32.Build.0 = Release|Win32
+		{004E55DF-E560-4A48-96A5-D3AF10D7648E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{004E55DF-E560-4A48-96A5-D3AF10D7648E}.Debug|Win32.Build.0 = Debug|Win32
+		{004E55DF-E560-4A48-96A5-D3AF10D7648E}.Release|Win32.ActiveCfg = Release|Win32
+		{004E55DF-E560-4A48-96A5-D3AF10D7648E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
